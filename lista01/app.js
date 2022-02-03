@@ -36,7 +36,7 @@ exercícios. Inclusive o alert mencionado acima.
 dígitos. Ex.: 1930.
 */
 
-const myBirthYear = 1998;
+const myBirthYear = 1998
 
 /*
 06 - Declare uma const "currentYear", que recebe o ano atual, com 4 dígitos.
